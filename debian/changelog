@@ -1,0 +1,11 @@
+orbited (0.7.11beta3-1) unstable; urgency=low
+
+  * Packaging for 0.7.11beta3.
+
+ --  <nick@datastax.com>  Fri, 26 Aug 2011 17:10:29 +0000
+
+orbited (0.7.10-1) unstable; urgency=low
+
+  * Initial packaging
+
+ -- paul cannon <pik@debian.org>  Wed, 17 Nov 2010 15:43:41 -0700
